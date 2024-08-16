@@ -1,0 +1,143 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+nav{
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 0 30px;
+}
+
+
+
+ul{
+    gap: 20px;
+    display: flex;
+    color: #fff;
+    
+
+}
+
+
+.div{
+    background-color: black;
+    width: 350px;
+    padding: 8px;
+    display: flex;
+    justify-content: end;
+    border-radius: 100px;
+}
+.nav__right{
+    display: flex;
+    gap: 43px;
+}
+
+select{
+    background-color: black;
+    color: white;
+}
+
+.box1{
+    background-image: url(/Bg\ \(1\).png);
+    height: 500px;
+}
+
+
+.box2{
+    background-color: rgb(172, 154, 154);
+    height: 400px;
+}
+
+
+
+.item{font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 56px;
+    margin-bottom: 62px;
+    text-align: center;
+    color: #fff;}
+
+
+    .box3{
+        display: flex;
+        justify-content: center;
+    }
+
+    .box4{
+        background-color: black;
+        height: 500px;
+    }
+
+   .h{
+    color: #3f3535;
+   }
+
+   .p{
+    color: #383838;
+   }
+
+   .section{
+    width: 740px;
+    margin: 0% auto;
+   }
+
+
+
+   .section_card{
+    display: flex;
+    margin: 10px;
+   }
+
+   .section_text{
+    width: 323px;
+  
+   }
+
+    .box4{
+        background-color: black;
+        height: 60px;
+    }
+
+    .dd {
+        color: white;
+        display: flex;
+        align-items: center;
+        padding: 20px 20px;
+    }
+    .aa{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #383838;
+    }
+    .ss {
+        gap: 20px;
+        display: flex;
+    }
+    
+    .footer-list{
+        color: #fff;
+    }
+ 
+    
+
+
+
+
+    
+ 
